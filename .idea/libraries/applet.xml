@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="applet">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/processing-3.5.4-windows64.zip!/processing-3.5.4/java/lib/applet" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
