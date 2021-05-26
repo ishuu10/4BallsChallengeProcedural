@@ -10,11 +10,6 @@ public class tryProcessing extends PApplet {
     int x3=0;
     int xSpeed=1;
 
-
-
-
-
-
    public  void settings() {
         size(1000, 1000);
     }
@@ -33,18 +28,7 @@ public class tryProcessing extends PApplet {
         x3=x3+4;
 
 
-
-
-
-
     }
-
-
-
-
-
-
-
 
     public static void main(String[] passedargs) {
         String[] appletArgs = new String[]{"tryProcessing"};
